@@ -1,0 +1,14 @@
+name: AdvancedPing
+version: ${project.version}
+api-version: 1.13
+main: com.nort721.advping.AdvPing
+author: Nort721
+description: An advanced connection tracking plugin
+depend: [ ProtocolLib ]
+softdepend: [ ViaVersion ]
+
+commands:
+  ping:
+    description: Base command
+    usage: /<command> help
+    aliases: [pn]

@@ -1,0 +1,3 @@
+prefix: '&bAdvancedPing &7-> '
+noPermissionsMessage: '&7You dont have permission to use this command.'
+pingCooldownMessage: '&7You cannot use this command yet.'
